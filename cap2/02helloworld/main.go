@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func helloWorld() {
 	x := 16
 	y := "string"
 	z := true
